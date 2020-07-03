@@ -1,0 +1,3 @@
+[submodule "git/sub"]
+	path = git/sub
+	url = https://github.com/StevenKangWei/learning-git-submodule.git
